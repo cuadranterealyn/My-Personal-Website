@@ -28,7 +28,4 @@ darkmode.onclick = () => {
         document.body.classList.remove('active');
     }
 }
-function myFunction() {
-  var element = document.body;
-  element.classList.toggle("dark-mode");
-}
+
